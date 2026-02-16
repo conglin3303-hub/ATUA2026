@@ -2,7 +2,7 @@
 
 This is repository containing materials for Advanced Topics for Urban Analytics Class
 
-The lab is going to be run in jupyter notebook
+The lab is going to be run in jupyter notebook. You can either use VSCode + Jupyter extension, or use Anaconda Jupyter Lab/Notebook to do your lab and tutorial. Please also fork my ATUA 2026 repository then you can submit your tutorial via pull request to my repo. 
 
 ## Lab requirements
 
