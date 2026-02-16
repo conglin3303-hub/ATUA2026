@@ -11,7 +11,7 @@ Please create new environment for this lab using  **Python 3.14**
 1. Install [Miniconda](https://docs.anaconda.com/miniconda/) or [Anaconda](https://www.anaconda.com/download/)
 2. Clone the repository:
 ```
-   git clone https://github.com/fengzixin0617/SpatialRegressionCourse.git
+   git clone https://github.com/qszhao/ATUA2026.git
    cd SpatialRegressionCourse
 ```
 3. Create and activate the environment:
@@ -61,6 +61,8 @@ conda install -c conda-forge pandas numpy geopandas libpysal spreg esda splot ma
 #Start the  jupyter lab
 
 jupyter lab
+
+```
 
 More information about creating python virtual environment with conda can be found from [here][blog].
 More details about managing conda channel can be found from [1][1] and [2][2]. Difference between Anaconda Prompt and Anaconda Powershell Prompt can be found from [3][3].
